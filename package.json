@@ -1,10 +1,9 @@
 {
-  "name": "ch2",
+  "name": "EJS",
   "version": "1.0.0",
   "description": "Eloquent JavaScript Chapter 2 Excersises",
-  "main": "looping.js",
   "scripts": {
-    "test": "mocha ../ch2/*test.js"
+    "test": "mocha **/*test.js"
   },
   "repository": {
     "type": "git",
