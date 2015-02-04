@@ -1,0 +1,29 @@
+{
+  "name": "ch2",
+  "version": "1.0.0",
+  "description": "Eloquent JavaScript Chapter 2 Excersises",
+  "main": "looping.js",
+  "scripts": {
+    "test": "mocha ../ch2/*test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enilsen16/Eloquent-JavaScript"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "keywords": [
+    "JavaScript",
+    "Eloquent",
+    "NodeJS",
+    "Mocha"
+  ],
+  "author": "enilsen16",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enilsen16/Eloquent-JavaScript/issues"
+  },
+  "homepage": "https://github.com/enilsen16/Eloquent-JavaScript"
+}
