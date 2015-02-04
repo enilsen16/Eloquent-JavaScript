@@ -1,5 +1,5 @@
 var app = exports = module.exports = {};
 
 app.triangle = function() {
-  return '#\n'
+  console.log('#\n');
 };

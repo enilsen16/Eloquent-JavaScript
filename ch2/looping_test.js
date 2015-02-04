@@ -3,6 +3,6 @@ var actual = require ('../ch2/looping');
 
 describe ('looping', function() {
   it('return 1 #', function(){
-    expect(actual.triangle(1)).to.eql('#\n');
+    expect(actual.triangle(1)).to.eql(console.log('#\n'));
   });
 });
