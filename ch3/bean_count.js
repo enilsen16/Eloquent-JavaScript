@@ -9,7 +9,7 @@ var countChar = function (string, ch) {
 };
 
 var countBs = function (string) {
-  return countChar (string, "B")
+  return countChar (string, "B");
 };
 
 
